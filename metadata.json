@@ -1,0 +1,5 @@
+{
+  "name": "ScanToDocx Converter",
+  "description": "Convert scanned documents and images into editable Microsoft Word (.docx) files, preserving tables and layout using Gemini AI.",
+  "requestFramePermissions": []
+}
